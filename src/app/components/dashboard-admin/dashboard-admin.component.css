@@ -1,0 +1,12 @@
+.admin{
+    color: green;
+    font-size: 50px;
+}
+.chef{
+    color: blue;
+    font-size: 30px;
+}
+.client{
+    color: orange;
+    font-size: 10px;
+}
